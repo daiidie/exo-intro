@@ -1,0 +1,1 @@
+console.log ('exo1 ok')
